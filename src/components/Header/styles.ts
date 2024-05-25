@@ -13,6 +13,15 @@ export const Content = styled.div`
     align-items: center;
     justify-content: space-between;
 
+    span{
+        position: relative;
+        right: 29%;
+        
+        font-size: 1.5rem;
+        color: #FFF;
+        font-weight: 500;
+    }
+
     button{
         font-size: 1rem;
         color: #FFF;
